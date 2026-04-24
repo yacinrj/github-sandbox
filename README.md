@@ -5,7 +5,7 @@
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 
 ---
-
+ 
 ## ⚙️ Setup 
 
 0. Fork this repo
@@ -43,7 +43,7 @@ The workflow will run automatically and the downloaded files will appear in the 
 Downloads each file and saves it by its original filename.
 
 ```
-download: https://www.youtube.com/watch?v=n37Ujf5xiAQ URL2 URL3
+download: URL1 URL2 URL3
 ```
 
 **Examples:**
